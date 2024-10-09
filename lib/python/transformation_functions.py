@@ -1,4 +1,4 @@
 
 
 def func_1(df, columns):
-    return df[columns = columns]
+    return df[column = columns]
