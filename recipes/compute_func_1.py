@@ -9,8 +9,8 @@ from transformation_functions import func_1
 medium_articles = dataiku.Dataset("medium_articles")
 df = medium_articles.get_dataframe()
 
-columns = [""]
-func_1_df = func_1(df,  # For this sample code, simply copy input to output
+columns = ["link"]
+func_1_df = func_1(df,columns) 
 
 
 # Write recipe outputs
