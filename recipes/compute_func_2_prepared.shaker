@@ -40,7 +40,7 @@
       "disabled": false,
       "type": "CreateColumnWithGREL",
       "params": {
-        "expression": "\"Original\"",
+        "expression": "\"Change from A\"",
         "column": "new_col_ex"
       },
       "alwaysShowComment": false
