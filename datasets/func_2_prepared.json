@@ -87,7 +87,8 @@
   },
   "schema": {
     "columns": [
-      {"name":"link","type":"string"}
+      {"name":"link","type":"string"},
+      {"name":"new_col_ex","type":"string"}
     ],
     "userModified": true
   },
