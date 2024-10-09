@@ -10,7 +10,7 @@ medium_articles = dataiku.Dataset("medium_articles")
 df = medium_articles.get_dataframe()
 
 columns = ["link"]
-func_1_df = func_2(df,columns) 
+func_2_df = func_2(df,columns) 
 
 
 # Write recipe outputs
