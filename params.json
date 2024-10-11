@@ -23,7 +23,7 @@
       "zonesGraphConnectZones": true,
       "zonesGraphForJobs": true
     },
-    "gitCommitMode": "AUTO",
+    "gitCommitMode": "ALL_EXPLICIT",
     "useRemoteGit": true,
     "disableAutomaticTriggers": false,
     "integrations": {
