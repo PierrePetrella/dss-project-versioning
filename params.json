@@ -139,8 +139,9 @@
     },
     "dkuProperties": []
   },
-  "name": "MASTER PROJECT",
+  "name": "MAIN PROJECT",
   "projectStatus": "Sandbox",
+  "imgPattern": 7,
   "metrics": {
     "probes": [],
     "engineConfig": {
