@@ -40,7 +40,8 @@
       "disabled": false,
       "type": "CreateColumnWithGREL",
       "params": {
-        "expression": "\"Change from 6B\"",
+        "expression": "\"Change from 6A\"",
+
         "column": "new_col_ex"
       },
       "alwaysShowComment": false
