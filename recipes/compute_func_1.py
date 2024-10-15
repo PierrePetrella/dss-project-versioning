@@ -3,7 +3,7 @@ import dataiku
 import pandas as pd, numpy as np
 from dataiku import pandasutils as pdu
 
-from transformation_functions import func_1
+from transformation_functions import func_6_B
 
 # Read recipe inputs
 medium_articles = dataiku.Dataset("medium_articles")
