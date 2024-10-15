@@ -9,3 +9,7 @@ def func_3(df, columns):
 
 def func_2(df, columns):
     return df[columns]
+    
+    
+def func_4(df, columns):
+    return df[columns]
