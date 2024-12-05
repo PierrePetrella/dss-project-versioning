@@ -1,0 +1,18 @@
+{
+  "name": "release notes",
+  "layout": "WIKI_ARTICLE",
+  "attachments": [],
+  "creationTag": {
+    "versionNumber": 0,
+    "lastModifiedBy": {
+      "login": "pierrepetrella"
+    },
+    "lastModifiedOn": 1729087624263,
+    "extendedProperties": {}
+  },
+  "tags": [],
+  "customFields": {},
+  "checklists": {
+    "checklists": []
+  }
+}
